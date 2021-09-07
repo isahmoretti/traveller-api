@@ -1,0 +1,1 @@
+Utilizamos o API do Google Maps para mostrar a localização exata do museu. Além disso, personalizamos o mapa, adicionando um ícone personalizado com a identidade visual do Traveller
